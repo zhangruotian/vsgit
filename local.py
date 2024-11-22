@@ -2,4 +2,5 @@ print("local commit1")
 print("local commit2")
 print("local commit4")
 print("remote commit8")
-print("remote commit9")
+print("local commit9")
+
