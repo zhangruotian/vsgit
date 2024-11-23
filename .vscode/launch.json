@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Python: local.py with config",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "local.py",  // Path to your local.py
+            "args": ["--config", "ruotian/config.ymal"],  // Command line arguments
+            "console": "integratedTerminal"
+        }
+    ]
+}
